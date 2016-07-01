@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/stockulus/pouchdb-react-native/master/static/pouchdb-react-native.png)
 
-pouchdb-adapter-localstorage
+pouchdb-adapter-asyncstorage
 ======
 
 PouchDB adapter using AsyncStorage as its data store. Designed to run in ReactNative. Its adapter name is `'asyncstorage'`.
